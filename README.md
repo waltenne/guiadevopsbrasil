@@ -23,39 +23,39 @@
 [📚 Canais do youtube com conteúdo gratuito](#-canais-do-youtube-com-conteúdo-gratuito) <br>
 
 ## 📚 Devops
-🔖 [Roadmap Devops](http://roadmap.sh/devops)
-🔖 [Dicionado Devops - Código Fonte TV](https://www.youtube.com/watch?v=iwf6kcvxeD4)
-🔖 [Entendendo "Devops" para Iniciantes em Programação 1 - Fabio Akita](https://www.youtube.com/watch?v=bwO8EZf0gLI)
-🔖 [Entendendo "Devops" para Iniciantes em Programação 2 - Fabio Akita](https://www.youtube.com/watch?v=mcwnQVAn0pw)
-🔖 [Por onde Começar a Estudar DevOps - Punk do DevOps](https://www.youtube.com/watch?v=_TivgYYAmnk)
-🔖 [Como ser um DevOps Engineer - LinuxTips](https://www.youtube.com/watch?v=Z_GTtWzoHOA)
-🔖 [DevOps Engineer ou SRE - LinuxTips](https://www.youtube.com/watch?v=z9XFkKmkDsU)
+🔖 [Roadmap Devops](http://roadmap.sh/devops) <br>
+🔖 [Dicionado Devops - Código Fonte TV](https://www.youtube.com/watch?v=iwf6kcvxeD4) <br>
+🔖 [Entendendo "Devops" para Iniciantes em Programação 1 - Fabio Akita](https://www.youtube.com/watch?v=bwO8EZf0gLI) <br>
+🔖 [Entendendo "Devops" para Iniciantes em Programação 2 - Fabio Akita](https://www.youtube.com/watch?v=mcwnQVAn0pw) <br>
+🔖 [Por onde Começar a Estudar DevOps - Punk do DevOps](https://www.youtube.com/watch?v=_TivgYYAmnk) <br>
+🔖 [Como ser um DevOps Engineer - LinuxTips](https://www.youtube.com/watch?v=Z_GTtWzoHOA) <br>
+🔖 [DevOps Engineer ou SRE - LinuxTips](https://www.youtube.com/watch?v=z9XFkKmkDsU) <br>
 
 ## 📚 Conteudo de Linux
 🔖 [Guia Foca](https://guiafoca.org/)
-🔖 [Linux Primeiros Passos - Curso em Video](https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
-🔖 [Linux Comandos Básicos - DioLinux](https://www.youtube.com/watch?v=JEhVB4VHsTI&t=215s)
-🔖 [Linux Estrutura Diretorios - DioLinux](https://www.youtube.com/watch?v=90UseHX4-ns)
-🔖 [LinuxWeek - LinuxTips](https://www.youtube.com/watch?v=zGE4UxYndrk&list=PLf-O3X2-mxDnl7LhhjhEgbo2etWKkJ0GV)
-🔖 [Descomplicando LPI Day 1 - LinuxTips](https://www.youtube.com/watch?v=QstQd6-3cnY&list=PLf-O3X2-mxDlwFxiS-VZR1kOewf0XjyAW)
-🔖 [Descomplicando LPI Day 2 - LinuxTips](https://www.youtube.com/watch?v=68NdygyTJXQ&list=PLf-O3X2-mxDlzNexUj5zS3RT8qMjTfBLL)
-🔖 [Descomplicando LPI Day 4 - LinuxTips](https://www.youtube.com/watch?v=ARpruwUhKPA&list=PLf-O3X2-mxDnt-_88srIitr2TEGPs2yaj)
-🔖 [Descomplicando VIM - LinuxTips](https://www.youtube.com/watch?v=TxSulvPxqic&list=PLf-O3X2-mxDnp9OpR8ZfbiRdq9CFPN5RE)
-🔖 [Descomplicando Gerenciamento de Processos - LinuxTips](https://www.youtube.com/watch?v=-bEVlQv_O-8&list=PLf-O3X2-mxDlx6sRx2WB-xv3Q9YHJ23ZN)
-🔖 [Curso Shell Script - BosonTreinamentos](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
-🔖 [Curso Básico Bash - debxp](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7)
+🔖 [Linux Primeiros Passos - Curso em Video](https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) <br>
+🔖 [Linux Comandos Básicos - DioLinux](https://www.youtube.com/watch?v=JEhVB4VHsTI&t=215s) <br>
+🔖 [Linux Estrutura Diretorios - DioLinux](https://www.youtube.com/watch?v=90UseHX4-ns) <br>
+🔖 [LinuxWeek - LinuxTips](https://www.youtube.com/watch?v=zGE4UxYndrk&list=PLf-O3X2-mxDnl7LhhjhEgbo2etWKkJ0GV) <br>
+🔖 [Descomplicando LPI Day 1 - LinuxTips](https://www.youtube.com/watch?v=QstQd6-3cnY&list=PLf-O3X2-mxDlwFxiS-VZR1kOewf0XjyAW) <br>
+🔖 [Descomplicando LPI Day 2 - LinuxTips](https://www.youtube.com/watch?v=68NdygyTJXQ&list=PLf-O3X2-mxDlzNexUj5zS3RT8qMjTfBLL) <br>
+🔖 [Descomplicando LPI Day 4 - LinuxTips](https://www.youtube.com/watch?v=ARpruwUhKPA&list=PLf-O3X2-mxDnt-_88srIitr2TEGPs2yaj) <br>
+🔖 [Descomplicando VIM - LinuxTips](https://www.youtube.com/watch?v=TxSulvPxqic&list=PLf-O3X2-mxDnp9OpR8ZfbiRdq9CFPN5RE) <br>
+🔖 [Descomplicando Gerenciamento de Processos - LinuxTips](https://www.youtube.com/watch?v=-bEVlQv_O-8&list=PLf-O3X2-mxDlx6sRx2WB-xv3Q9YHJ23ZN) <br>
+🔖 [Curso Shell Script - BosonTreinamentos](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) <br>
+🔖 [Curso Básico Bash - debxp](https://www.youtube.com/watch?v=ZM--I3NJ2jY&list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7) <br>
 
 ## 📚 Conteudo de Container
-🔖 [Descomplicando Docker 1 - LinuxTips](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)
-🔖 [Descomplicando Docker 2 - LinuxTips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
-🔖 [ContainerWeek - LinuxTips](https://www.youtube.com/watch?v=WkM9R9-WQCk&list=PLf-O3X2-mxDkm066fG5B3G1i0IzZoSjH1)
-🔖 [Livro Descomplicando Kubernets - LinuxTips](https://github.com/badtuxx/DescomplicandoKubernetes)
-🔖 [Livro Descomplicando Docker - LinuxTips](https://github.com/badtuxx/DescomplicandoDocker)
-🔖 [Docker em 22 Minutos - Programador a Bordo](https://www.youtube.com/watch?v=Kzcz-EVKBEQ&)
+🔖 [Descomplicando Docker 1 - LinuxTips](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb) <br>
+🔖 [Descomplicando Docker 2 - LinuxTips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) <br>
+🔖 [ContainerWeek - LinuxTips](https://www.youtube.com/watch?v=WkM9R9-WQCk&list=PLf-O3X2-mxDkm066fG5B3G1i0IzZoSjH1) <br>
+🔖 [Livro Descomplicando Kubernets - LinuxTips](https://github.com/badtuxx/DescomplicandoKubernetes) <br>
+🔖 [Livro Descomplicando Docker - LinuxTips](https://github.com/badtuxx/DescomplicandoDocker) <br>
+🔖 [Docker em 22 Minutos - Programador a Bordo](https://www.youtube.com/watch?v=Kzcz-EVKBEQ&) <br>
 
 ## 📚 Conteudo de Git e Github
 
-🔖 [Github - Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+🔖 [Github - Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) <br>
 🔖 [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 🔖 [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
 🔖 [Aprenda Git](https://learngitbranching.js.org/) <br>
@@ -145,18 +145,18 @@ git branch | grep -v "master" | xargs git branch -D <br>
 
 ## 📚 Conteudo de Cloud
 
-🔖 [Curso AWS na Prática - Um Inventor Qualquer](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm)
-🔖 [AWS do Zero ao Expert - Mundo da Cloud](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)
+🔖 [Curso AWS na Prática - Um Inventor Qualquer](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm) <br>
+🔖 [AWS do Zero ao Expert - Mundo da Cloud](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz) <br>
 
 ## Conteudo em Talks
-🔖 [Multirão DevOps - LinuxTips](https://github.com/badtuxx/MutiraoDevOps)
-🔖 [DevOps Extreme - LinuxTips](https://www.youtube.com/watch?v=KKMdpiP1cSQ&list=PLf-O3X2-mxDmlxnWIGusLo0QeFb7K4wC-)
-🔖 [FiqueEmCasaConf - LinuxTips](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk)
-🔖 [Semana DevOps 2019 - LinuxTips](https://www.youtube.com/watch?v=aI8FeEhDqoc&list=PLf-O3X2-mxDm9DRnU0mJtyDooW6v31EQB)
+🔖 [Multirão DevOps - LinuxTips](https://github.com/badtuxx/MutiraoDevOps) <br>
+🔖 [DevOps Extreme - LinuxTips](https://www.youtube.com/watch?v=KKMdpiP1cSQ&list=PLf-O3X2-mxDmlxnWIGusLo0QeFb7K4wC-) <br>
+🔖 [FiqueEmCasaConf - LinuxTips](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk) <br>
+🔖 [Semana DevOps 2019 - LinuxTips](https://www.youtube.com/watch?v=aI8FeEhDqoc&list=PLf-O3X2-mxDm9DRnU0mJtyDooW6v31EQB) <br>
 
 ## Conteudo IaC
 
-🔖 [Terraforma - Punk do DevOps](https://www.youtube.com/watch?v=-mph_Ho57JI&list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux)
+🔖 [Terraforma - Punk do DevOps](https://www.youtube.com/watch?v=-mph_Ho57JI&list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) <br>
 
 ## 📚 Conteudo de Python
 
