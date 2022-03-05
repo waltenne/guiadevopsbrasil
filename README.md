@@ -5,7 +5,7 @@
 🌟 A criação do repositório, com inspiração no [Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil)<br> 
 🌟 O repositório servirá para compartilhamento de conteúdo Gratuito sobre DevOps.<br>
 
-📞 Contato 📞
+📞 Contato 📞 <br>
 🔖 GitHub: https://github.com/waltenne/ 👨🏻‍💻 <br>
 🔖 Linkedin: https://www.linkedin.com/in/waltenne/ 👨🏻‍💻 <br>
 
@@ -32,7 +32,7 @@
 🔖 [DevOps Engineer ou SRE - LinuxTips](https://www.youtube.com/watch?v=z9XFkKmkDsU) <br>
 
 ## 📚 Conteudo de Linux
-🔖 [Guia Foca](https://guiafoca.org/)
+🔖 [Guia Foca](https://guiafoca.org/) <br>
 🔖 [Linux Primeiros Passos - Curso em Video](https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) <br>
 🔖 [Linux Comandos Básicos - DioLinux](https://www.youtube.com/watch?v=JEhVB4VHsTI&t=215s) <br>
 🔖 [Linux Estrutura Diretorios - DioLinux](https://www.youtube.com/watch?v=90UseHX4-ns) <br>
