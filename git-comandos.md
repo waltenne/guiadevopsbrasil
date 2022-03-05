@@ -1,46 +1,46 @@
-ls (Listar as pastas)
-cd .. (voltar um diretório)
-CD:
-dir / tree /f (ver o que tem dentro da pasta)
-mkdir (nome da pasta) - criar novos diretórios/pastas
-git status (Verifica o status do repositório)
-git add -A (Trackear o que não foi trackeado, inserir tudo)
-git commit -m (Para commitar) / git commit -am
-Diferença do commit -m para o git commit -am
-git log (lista de commits)
-git reset (--soft / --mixed / --hard)
-git checkout (Mudar a branch atual)
-git diff (Checar o que houve nas alterações) / git diff --name-only / git diff //nome do arquivo// (vê apenas a alteração feita naquele arquivo)
-git checkout HEAD -- "diff" //nome do arquivo// (retroceder até a posição)
-git push origin
-git pull origin
-git clone
+ls (Listar as pastas)  <br>
+cd .. (voltar um diretório) <br>
+CD: <br>
+dir / tree /f (ver o que tem dentro da pasta) <br>
+mkdir (nome da pasta) - criar novos diretórios/pastas <br>
+git status (Verifica o status do repositório) <br>
+git add -A (Trackear o que não foi trackeado, inserir tudo) <br>
+git commit -m (Para commitar) / git commit -am <br>
+Diferença do commit -m para o git commit -am <br> 
+git log (lista de commits) <br> 
+git reset (--soft / --mixed / --hard) <br>
+git checkout (Mudar a branch atual) <br> 
+git diff (Checar o que houve nas alterações) / git diff --name-only / git diff //nome do arquivo// (vê apenas a alteração feita naquele arquivo) <br>
+git checkout HEAD -- "diff" //nome do arquivo// (retroceder até a posição) <br>
+git push origin <br>
+git pull origin <br>
+git clone <br>
 
-Configurações iniciais do Git
+# Configurações iniciais do Git
 
-Baixando e instalando o Git
+# Baixando e instalando o Git
 Site para instalar o Git
 
-Configura nome de usuário:
+# Configura nome de usuário:
 git config --global user.name
 
-Configura email de usuário:
+# Configura email de usuário:
 git config --global user.email email@email.com.br
 
-Inicializando um repositório
+# Inicializando um repositório
 
-Inicializa o versionamento no respectivo diretório:
+# Inicializa o versionamento no respectivo diretório:
 git init
 
-Comandos básicos para sobreviver:
+# Comandos básicos para sobreviver:
 
-Verificando o status do repositório:
+# Verificando o status do repositório:
 git status
 
-Adicionando todos os arquivos para serem commitados:
+# Adicionando todos os arquivos para serem commitados:
 git add . / git add -A
 
-Commitando arquivos:
+# Commitando arquivos:
 git commit -m "inserir um comentário significativo"
 
 # Visualizando relatório de commits:
