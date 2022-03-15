@@ -28,7 +28,7 @@
 ## 📚 Linux
 
 🔖 [O que é Linux?](https://www.youtube.com/watch?v=K05CssAbQgo) <br>
-🔖 [Linux Primeiros Passos - Curso em Video](https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) <br>]
+🔖 [Linux Primeiros Passos - Curso em Video](https://www.youtube.com/watch?v=6nN2EglOqCM&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) <br>
 🔖 [Linux Comandos Básicos - DioLinux](https://www.youtube.com/watch?v=JEhVB4VHsTI&t=215s) <br>
 🔖 [Linux Estrutura Diretorios - DioLinux](https://www.youtube.com/watch?v=90UseHX4-ns) <br>
 🔖 [Guia Foca - Documentação Linux](https://guiafoca.org/) <br>
