@@ -21,6 +21,7 @@
 🔖 [Entendendo "Devops" para Iniciantes em Programação 1 - Fabio Akita](https://www.youtube.com/watch?v=bwO8EZf0gLI) <br>
 🔖 [Entendendo "Devops" para Iniciantes em Programação 2 - Fabio Akita](https://www.youtube.com/watch?v=mcwnQVAn0pw) <br>
 🔖 [Cultura Devops - Punk do DevOps](https://www.youtube.com/watch?v=CZf2pvvbHHw&list=PLFfGe1VU0nwReYgbmy6pQDr7Q4t8dVFyT) <br>
+🔖 [Conceitos DevOps - Udemy Claudio Antonio da Silva](https://www.udemy.com/course/conceitos-devops/) <br>
 🔖 [Por onde Começar a Estudar DevOps - Punk do DevOps](https://www.youtube.com/watch?v=_TivgYYAmnk) <br>
 🔖 [Como ser um DevOps Engineer - LinuxTips](https://www.youtube.com/watch?v=Z_GTtWzoHOA) <br>
 🔖 [DevOps Engineer ou SRE - LinuxTips](https://www.youtube.com/watch?v=z9XFkKmkDsU) <br>
@@ -61,16 +62,19 @@
 🔖 [Curso AWS na Prática - Um Inventor Qualquer](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm) <br>
 🔖 [AWS do Zero ao Expert - Mundo da Cloud](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz) <br>
 🔖 [Primeiros Passos em Cloud - Cloud Treinamentos](https://www.youtube.com/watch?v=zaj0IX8dQwA&list=PLwlq4XZ8aTmfHJTNreRyqCmXVWhyF5LHo) <br>
+🔖 [#BondeDaAWS - Treinamento preparatório para a certificação da AWS - LinuxTips](https://www.youtube.com/watch?v=VrQVDbgwFDs) <br>
+🔖 [#BondeDoOCI - Workshop completo rumo a certificação Oracle Cloud - LinuxTips](https://www.youtube.com/watch?v=jWG3gVf2YWEs) <br>
 
 ## IaC
 
-🔖 [Terraforma - Punk do DevOps](https://www.youtube.com/watch?v=-mph_Ho57JI&list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) <br>
+🔖 [Terraform - Punk do DevOps](https://www.youtube.com/watch?v=-mph_Ho57JI&list=PLFfGe1VU0nwQlT5l9dQa-Qgbyawd424Ux) <br>
 
 ## 📚 Python
 
 🔖 [Curso de Python - Curso em Video](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 🔖 [Python - Robert Silva](https://www.youtube.com/watch?v=ben1rzCUAd8&list=PLg7nVxv7fa6cuEcIaB540ymKcp_gwWD_L) <br>
 🔖 [Curso Python 3 - Robert Silva](https://www.youtube.com/watch?v=md1vkPxwNNE&list=PLg7nVxv7fa6c9kHOFxJEBXnQMHa-_ATzk) <br>
+🔖 [Python Week - LinuxTips](https://www.youtube.com/watch?v=NqUC-G_Pu-o&list=PLf-O3X2-mxDlfAv8IOfic1sHArdwrrkgh) <br>
 
 ## GO
 
