@@ -15,6 +15,7 @@
 [📚 Canais Youtube](#-canais-youtube) <br>
 
 ## 📚 Devops
+
 🔖 [Roadmap.sh - Devops](http://roadmap.sh/devops) <br>
 🔖 [Simple Roadmap Devops](devops_roadmap_simple.jpeg) <br>
 🔖 [Dicionado Devops - Código Fonte TV](https://www.youtube.com/watch?v=iwf6kcvxeD4) <br>
@@ -28,6 +29,7 @@
 🔖 [DevOps na Vida Real - Jefferson Noronha](https://www.youtube.com/watch?v=KbvfV01tSig) <br>
 
 ## 📚 Linux
+
 🔖 [Guia Foca](https://guiafoca.org/) <br>
 🔖 [LinuxWeek - LinuxTips](https://www.youtube.com/watch?v=zGE4UxYndrk&list=PLf-O3X2-mxDnl7LhhjhEgbo2etWKkJ0GV) <br>
 🔖 [Descomplicando LPI Day 1 - LinuxTips](https://www.youtube.com/watch?v=QstQd6-3cnY&list=PLf-O3X2-mxDlwFxiS-VZR1kOewf0XjyAW) <br>
@@ -38,8 +40,10 @@
 
 
 ## 📚 Container
+
 🔖 [Descomplicando Docker 1 - LinuxTips](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb) <br>
 🔖 [Descomplicando Docker 2 - LinuxTips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_) <br>
+🔖 [Curso Descomplicando Docker - LinuxTips](https://www.youtube.com/watch?v=Wm99C_f7Kxw&list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR&index=1) <br>
 🔖 [ContainerWeek - LinuxTips](https://www.youtube.com/watch?v=WkM9R9-WQCk&list=PLf-O3X2-mxDkm066fG5B3G1i0IzZoSjH1) <br>
 🔖 [Livro Descomplicando Kubernets - LinuxTips](https://github.com/badtuxx/DescomplicandoKubernetes) <br>
 🔖 [Livro Descomplicando Docker - LinuxTips](https://github.com/badtuxx/DescomplicandoDocker) <br>
