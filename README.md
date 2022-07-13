@@ -20,6 +20,7 @@
 [📚 Iniciante](iniciante/iniciante.md) <br>
 [📚 Intermediario](intermediario/intermediario.md) <br>
 [📚 Avançado](avancado/avancado.md) <br>
+[📚 Dicas](dicas/dicas.md) <br>
 
 ## 📚 Canais do youtube com conteúdo gratuito
 
