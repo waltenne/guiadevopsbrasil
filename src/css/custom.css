@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'Poppins';
-  src: url('../../static/fonts/Poppins-Bold.ttf') format('truetype');
+  font-family: "Poppins";
+  src: url("../../static/fonts/Poppins-Bold.ttf") format("truetype");
   font-weight: 500;
 }
 
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../static//fonts/OpenSans-Regular.ttf') format('truetype');
+  font-family: "Open Sans";
+  src: url("../../static//fonts/OpenSans-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('../../static//fonts/Roboto-Regular.ttf') format('truetype');
+  font-family: "Roboto";
+  src: url("../../static//fonts/Roboto-Regular.ttf") format("truetype");
 }
 
 :root {
@@ -22,36 +22,36 @@
   --ifm-color-primary-light: #0f314d;
   --ifm-color-primary-lighter: #0f314d;
   --ifm-color-primary-lightest: #0f314d;
-  --ifm-color-card-background: #F5F5F5;
-  --ifm-color-card-hover: #FFFFFF;
-  --ifm-color-card-border: #D9D9D9;
-  --ifm-color-card-border-hover: #F7F7F7;
+  --ifm-color-card-background: #f5f5f5;
+  --ifm-color-card-hover: #ffffff;
+  --ifm-color-card-border: #d9d9d9;
+  --ifm-color-card-border-hover: #f7f7f7;
   --ifm-color-card-shadow: #989898;
   --ifm-color-black: #000000;
-  --ifm-color-white: #FFFFFF;
-  --ifm-background-color: #F5F5F5;
-  --ifm-color-title: #FFFFFF;
+  --ifm-color-white: #ffffff;
+  --ifm-background-color: #f5f5f5;
+  --ifm-color-title: #ffffff;
   --ifm-color-description: #240a0a;
   --ifm-color-text-search-bar: #000;
-  --ifm-color-banner-title: #FFFFFF;
-  --ifm-color-navbar-text: #111A2F;
+  --ifm-color-banner-title: #ffffff;
+  --ifm-color-navbar-text: #111a2f;
   --ifm-color-login-card: #f5f5f5;
   --ifm-color-login-background: #2246be;
   --ifm-color-footer-button: #0021de;
-  --ifm-navbar-background-color: #FFFFFF;
-  --ifm-link-color: #0184DE;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-link-color: #0184de;
 }
 
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #2273be;
   --ifm-color-primary-dark: #09319e;
   --ifm-color-primary-darker: #09319e;
   --ifm-color-primary-darkest: #09319e;
-  --ifm-color-primary-light: #FFFFFF;
-  --ifm-color-primary-lighter: #FFFFFF;
-  --ifm-color-primary-lightest: #060E1D;
-  --ifm-color-card-background: #060E1D;
-  --ifm-color-card-border-hover: #FFFFFF;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #060e1d;
+  --ifm-color-card-background: #060e1d;
+  --ifm-color-card-border-hover: #ffffff;
   --ifm-color-card-hover: #f9f9f91e;
   --ifm-color-card-border: #818181;
   --ifm-color-card-shadow: #6a6a6a;
@@ -59,28 +59,35 @@
   --ifm-color-title: #f7f9fdce;
   --ifm-color-description: #e5e5e5;
   --ifm-color-text-search-bar: #fff;
-  --ifm-color-banner-title: #FFFFFF;
-  --ifm-color-navbar-text: #F9F9F9;
+  --ifm-color-banner-title: #ffffff;
+  --ifm-color-navbar-text: #f9f9f9;
   --ifm-color-login-card: #f5f5f5;
-  --ifm-color-login-background: #2D3549;
+  --ifm-color-login-background: #2d3549;
   --ifm-color-footer-button: #0021de;
   --ifm-navbar-background-color: #000000;
-  --ifm-link-color: #0184DE;
+  --ifm-link-color: #0184de;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-html[data-theme='dark'] {
-  --ifm-background-color: #1B1B1D;
-  --ifm-background-surface-color: #1B1B1D;
+html[data-theme="dark"] {
+  --ifm-background-color: #1b1b1d;
+  --ifm-background-surface-color: #1b1b1d;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: 'Poppins';
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Poppins";
 }
 
-p, a, li, code {
-  font-family: 'Open Sans';
+p,
+a,
+li,
+code {
+  font-family: "Open Sans";
 }
 
 .homepage {
@@ -89,18 +96,16 @@ p, a, li, code {
   background-position: center center;
   background-size: cover;
   background-color: var(--ifm-color-primary);
-}
-
-.homepage-container {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   height: 100%;
+  padding: 2rem;
 }
 
 .navbar-text {
-  font-family: 'Poppins';
+  font-family: "Poppins";
   font-weight: 400;
   font-size: 16px;
   color: var(--ifm-color-navbar-text);
@@ -128,11 +133,11 @@ p, a, li, code {
 .logout-button {
   margin-left: 15px;
   cursor: pointer;
-  font-family: 'Poppins';
+  font-family: "Poppins";
   color: var(--ifm-color-navbar-text);
 }
 
-:root { 
+:root {
   --doc-sidebar-width: 250px !important;
 }
 
@@ -203,7 +208,7 @@ p, a, li, code {
   background-color: var(--ifm-color-primary-lightest);
   background-size: cover;
   margin: 8%;
-  font-size:larger;
+  font-size: larger;
   color: var(--ifm-color-card-border-hover);
   height: 500px;
 }
@@ -227,7 +232,7 @@ p, a, li, code {
   --docsearch-text-color: var(--ifm-color-text-search-bar);
 }
 
-.space_c1nM h2{
+.space_c1nM h2 {
   border-radius: 0.25rem;
   border: 1px solid;
   border-inline-start-width: 1px;
@@ -235,4 +240,18 @@ p, a, li, code {
 
 .cards_SFyd {
   --ifm-color-primary-lightest: #ee190a;
+}
+
+.sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important;
 }
