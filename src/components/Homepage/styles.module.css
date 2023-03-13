@@ -1,0 +1,57 @@
+.headerContainer {
+    margin: 2%;
+}
+
+.headerBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.headerTitleContainer {
+    display: inline-flex;
+    align-items: row;
+    align-self: center;
+    justify-self: center;
+}
+
+.headerTitleContainer h2 {
+    margin-right: 30px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+}
+
+.headerTitle {
+    text-align: left;
+}
+
+.headerTitle h1 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    color: var(--ifm-color-footer-button);
+}
+
+.headerTitle h3 {
+    font-size: 30px;
+}
+
+.headerTypeWriter {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    align-self: center;
+    justify-self: center;
+    width: 700px;
+    height: -700px;
+    color: #fff
+}
+
+.headerLogo {
+    margin-left: 132px;
+}
+
+

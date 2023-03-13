@@ -1,0 +1,158 @@
+.footerDiv {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--ifm-color-black);
+}
+
+.footerDiv p {
+    margin: 0;
+    color: var(--ifm-color-white);
+    font-family: 'Open Sans';
+}
+
+.footerDiv b {
+    margin: 0;
+    color: var(--ifm-color-white);
+}
+
+.footerSocialMedia {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 300px) {
+    .footerSocialMedia {
+        flex-direction: column;
+    }
+}
+
+.footerContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-items: space-around;
+    align-content: center;
+    margin-top: 50px;
+}
+
+.footerLeft {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.footerRight {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 950px) {
+    .footerRight {
+        flex-direction: column;
+    }
+}
+
+.footerImgContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footerLogo {
+    margin-right: 16%;
+}
+
+.footerIcon {
+    margin-right: 15px;
+}
+
+.footerAddress {
+    margin-top: 25px;
+}
+
+.footerImgText {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Open Sans';
+    font-size: 14px;
+}
+
+.footerImgText a {
+    color: var(--ifm-color-white);
+    text-decoration: none;
+}
+
+.footerImgText a:hover {
+    opacity: 0.6;
+}
+
+@media (max-width: 950px) {
+    .footerImgText {
+        margin-bottom: 25px;
+    }
+}
+
+.footerText {
+    margin-inline-end: 45px;
+}
+
+.footerButtonContainer {
+    margin-top: 30px;
+    align-self: end;
+    text-align: center;
+}
+
+@media (max-width: 950px) {
+    .footerButtonContainer {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.footerButton {
+    width: 365px;
+    height: 52px;
+    background-color: var(--ifm-color-footer-button);
+    border: none;
+    border-radius: 5px;
+    font-family: 'Open Sans';
+    color: var(--ifm-color-black);
+    font-size: 20px;
+}
+
+.footerButton:hover {
+    cursor: pointer;
+    color: var(--ifm-color-black);
+    opacity: 0.8;
+}
+
+.footerButton a {
+    color: var(--ifm-color-black);
+    font-family: 'Open Sans';
+}
+
+.footerButton a:hover {
+    text-decoration: none;
+}
+
+@media (max-width: 950px) {
+    .footerButton {
+        width: 320px;
+        font-size: 18px;
+    }
+}
+
+.footerCopyright {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 16px;
+}
+
+@media (max-width: 950px) {
+    .footerCopyright {
+        font-size: 12px;
+    }
+}
