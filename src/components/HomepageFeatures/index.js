@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import clsx from "clsx";
 import styles from "./styles.module.css";
 
 const FeatureList = [
@@ -56,11 +55,11 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <h1>Explore a documentação</h1>
-      <ul className={styles.container}>
+      <ol className={styles.container}>
         {FeatureList.map((props, idx) => (
           <Feature key={idx} index={idx + 1} {...props} />
         ))}
-      </ul>
+      </ol>
     </section>
   );
 }
