@@ -7,10 +7,10 @@ then
 fi
 URL="https://www.youtube.com/playlist?list=$1"
 YOUTUBE_VIDEO_URL_PREFIX="https:\/\/youtube.com\/watch?v="
-OUT_FILE="1.md"
+OUT_FILE="playlist_extracted.md"
 
-withnames=false
-if [[ "$2" = "withnames" ]];
+withnames=true
+if [[ "withnames" = "withnames" ]];
 then
 	withnames=true
 fi
@@ -72,7 +72,7 @@ while IFS= read -r line
 do
 	COUNTER=$(( $COUNTER + 1 ))
 	link=$(echo $line | awk '{print $1}')
-	link_id=$(echo $link | sed 's/https:\/\/youtube.com\/watch?v=//g')
+	link_id=$(echo $link | sed 's/https:\/\/youtube.com\/watch?v=//g')	
 	title=$(echo $line | awk '{$1=""; print $0}' | sed 's/^ //g') 
 	TEXT="""\n- - -\n# $COUNTER. $title\n
 <iframe allowfullscreen='allowfullscreen'\n\t
@@ -85,5 +85,10 @@ do
 		allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'\n\t
 		src='https://www.youtube.com/embed/${link_id}'>\n
 </iframe>\n"""
-	echo -ne $TEXT >> 2.md
+	if [[ $link_id != "Descrição" ]];
+	then
+		echo -ne $TEXT >> playlist_converted.md
+	fi
 done < "$OUT_FILE"
+
+rm -rf $OUT_FILE

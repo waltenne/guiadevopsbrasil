@@ -1,6 +1,6 @@
 # Git
 
-1. [Github - Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+1. [Github - Curso em Vídeo](./github_curso_em_video.md)
 2. [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs)
 3. [Comandos Git](https://github.com/theandersonn/comandos-git)
 4. [Aprenda Git](https://learngitbranching.js.org/)
