@@ -1,2 +1,6 @@
-\node_modules
 .docusaurus
+.vscode
+build/
+node_modules/
+playlist_extracted.md
+playlist_converted.md
