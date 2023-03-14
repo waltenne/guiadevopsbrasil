@@ -21,8 +21,8 @@ Com a ideia de ser um facilitador para organização de conteúdos gratuitos e e
 
 Foi pensado tanto como nas pessoas que querem entrar na carreira DevOps e não sabem por onde começar, mas também para as pessoas que já estão na área para aprimorar os conhecimentos, ajudando outras pessoas.
 
-Encontrou um Bug 🐛, tem uma ideia 💡? É só abrir uma [issue](https://github.com/waltenne/guiadevopsbrasil/issues).
-Quer contribuir? Envie uma [PR](https://github.com/waltenne/guiadevopsbrasil/pulls), com a sua melhoria.
+Encontrou um Bug 🐛, tem uma ideia 💡? É só abrir uma [issue](https://github.com/waltenne/guiadevopsbrasil/issues). <br>
+Quer contribuir? Envie uma [PR](https://github.com/waltenne/guiadevopsbrasil/pulls), com a sua melhoria. <br>
 
 **Caso não saiba como contribuir leia a documentação abaixo ou assista esse vídeo.**
 
