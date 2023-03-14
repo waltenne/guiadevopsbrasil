@@ -26,16 +26,7 @@ Quer contribuir? Envie uma [PR](https://github.com/waltenne/guiadevopsbrasil/pul
 
 **Caso não saiba como contribuir leia a documentação abaixo ou assista esse vídeo.**
 
- <iframe allowfullscreen='allowfullscreen'
-   mozallowfullscreen='mozallowfullscreen'
-   msallowfullscreen='msallowfullscreen'
-   oallowfullscreen='oallowfullscreen'
-   webkitallowfullscreen='webkitallowfullscreen'
-   width='560' height='315'
-   frameborder='0'
-   allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-   src='https://www.youtube.com/embed/n0lSrPl9DTc'>
- </iframe>
+1. [COMO CONTRIBUIR COM OPEN SOURCE NO GITHUB - DANIEL BONIFACIO](https://www.youtube.com/watch?v=n0lSrPl9DTc)
  
 ## Indice
 
