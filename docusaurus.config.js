@@ -74,7 +74,7 @@ const config = {
           },
           {
             type: 'doc',
-            label: 'Começe aqui',
+            label: 'Comece aqui',
             docId: 'niveis/niveis',
             position: 'left',
             className: 'navbar-text',
