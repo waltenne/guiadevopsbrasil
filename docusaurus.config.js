@@ -39,6 +39,19 @@ const config = {
     'docusaurus-plugin-image-zoom',
   ],
 
+  plugins: [
+    '@gracefullight/docusaurus-plugin-vercel-analytics',
+    'docusaurus-plugin-image-zoom',
+    [
+      require.resolve("docusaurus-plugin-search-local"),
+      {
+        hashed: true,
+      },
+    ],
+  ],
+  themes: [
+    'docusaurus-theme-openapi-docs',
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -53,9 +66,12 @@ const config = {
       },
       zoom: {
         selector: '.markdown :not(em) > img',
-        background: {
-          light: 'rgb(255, 255, 255)',
-          dark: 'rgb(50, 50, 50)'
+        config: {
+          background: {
+            light: 'rgb(255, 255, 255)',
+            dark: 'rgb(50, 50, 50)'
+          },
+          scrollOffset: 300,
         },
       },
       navbar: {
@@ -78,7 +94,7 @@ const config = {
             docId: 'niveis/niveis',
             position: 'left',
             className: 'navbar-text',
-          },
+          },    
           {
             href: 'https://github.com/waltenne/guiadevopsbrasil',
             label: 'Guia DevOps Brasil on Github',

@@ -1,8 +1,8 @@
 .footerDiv {
     display: grid;
     place-items: center;
-    padding: 2ch;
-    row-gap: 1ch;
+    padding: 0ch;
+    row-gap: 0ch;
     background-color: var(--ifm-color-black);
 }
 

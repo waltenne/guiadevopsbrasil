@@ -1,0 +1,136 @@
+.blogContainer {
+    margin-top: 5%;
+}
+
+.blogContainer h1 {
+    text-align: center;
+    margin-bottom: 5%;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.cardContainer {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 200px;
+    column-gap: 25px;
+    row-gap: 25px;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 25px;
+}
+
+@media (max-width: 950px) {
+    .cardContainer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cardBlog {
+        height: 180px;
+    }
+
+    .cardBlog:hover {
+        opacity: 0.5;
+    }
+}
+
+.cardContainer a {
+    text-decoration: none;
+    color: var(--ifm-color-description);
+    background: linear-gradient(89.93deg, rgba(3, 99, 243, 0.77) 0.04%, rgba(0, 0, 0, 0) 99.92%);
+}
+
+.cardContainer p {
+    font-weight: 500;
+}
+
+.cardContainer2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    column-gap: 25px;
+    row-gap: 25px;
+    /* margin-top: 3%; */
+}
+
+@media (max-width: 950px) {
+    .cardContainer2 {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.cardContainer2 a {
+    text-decoration: none;
+    color: var(--ifm-color-description);
+}
+
+.cardBlog {
+    background-color: var(--ifm-color-card-background);
+    border: 1px solid var(--ifm-color-card-border);
+    border-radius: 16px;
+    transition: transform .2s;
+    align-content: center;
+    text-align: center;
+}
+
+.cardBlog:hover {
+    transform: scale(1.05);
+}
+
+.cardTitle {
+    color: var(--ifm-color-white);
+    width: 215px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.cardTitle h2 {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: left;
+    line-height: 35px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.cardButton {
+    width: 220px;
+    height: 52px;
+    background-color: var(--ifm-color-footer-button);
+    border: none;
+    border-radius: 5px;
+    font-family: 'Open Sans';
+    color: var(--ifm-color-black);
+    font-size: 20px;
+}
+
+.cardButton:hover {
+    cursor: pointer;
+    color: var(--ifm-color-black);
+    opacity: 0.8;
+}
+
+.cardButton a {
+    color: var(--ifm-color-black);
+    font-family: 'Open Sans';
+    font-size: 18px;
+}
+
+.cardButton a:hover {
+    text-decoration: none;
+}
+
+@media (max-width: 550px) {
+    .cardTitle h2 {
+        width: 185px;
+        font-size: 19px;
+        /* margin-top: 8%; */
+    }
+}

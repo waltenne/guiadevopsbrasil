@@ -1,65 +1,85 @@
-import React from "react";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./styles.module.css";
+import React from 'react';
+import Link from '@docusaurus/Link';
+import BlogCards from '@site/src/components/BlogCards';
+import clsx from 'clsx';
+import styles from './styles.module.css';
 
 const FeatureList = [
   {
     title: "Iniciante",
+    Svg: require('@site/static/img/home/iniciante.svg').default,
     link: "docs/niveis/iniciante/",
-    description: "Historica da Computação, Sistemas Operacionais Sistemas da Informação e muito mais",
+    description: "",
   },
   {
     title: "Intermediário",
+    Svg: require('@site/static/img/home/intermediario.svg').default,
     link: "docs/niveis/intermediario/",
-    description: "Linux, Lógica Programação e Banco de Dados",
+    description: "",
   },
   {
     title: "Avançado",
+    Svg: require('@site/static/img/home/avancado.svg').default,
     link: "docs/niveis/avancado/",
-    description: "Linux, Infra as Code (IaC), Container e muito mais",
+    description: "",
   },
   {
     title: "Twitter Spaces",
+    Svg: require('@site/static/img/home/twitter.svg').default,
     link: "docs/twitter_spaces/",
-    description: "Bate-papos da comunidade sobre assuntos diversos",
+    description: "",
   },
   {
     title: "Dicas",
+    Svg: require('@site/static/img/home/dicas.svg').default,
     link: "docs/dicas/",
-    description: "Docker rootless",
+    description: "",
   },
   {
     title: "Dúvidas frequentes",
+    Svg: require('@site/static/img/home/faq.svg').default,
     link: "docs/duvidas/",
-    description: "Em construção 🚀",
+    description: "",
   },
 ];
 
-function Feature({ title, description, link, index }) {
+function Feature({ title, description, link, Svg }) {
   return (
-    <li>
-      <Link className={styles.cards} to={link} data-count={index}>
-        <h2 className={styles.cardlink}>{title}</h2>
-        {description && <p className={styles.description}>{description}</p>}
-        {/* <div className='container'>
-            <Svg className={styles.featureSvg} role="img" src={'/docs/intro'} />
-          </div> */}
+    <div className={clsx('col col--4')}>
+      <Link className={styles.cardLink} to={link}>
+        <div className={styles.cards}>
+          <div className={styles.cardBody}>
+            <div className={styles.cardHeader}>
+              <Svg className={styles.featureSvg} role="img" />
+              <p className={styles.cardTitle}>{title}</p>
+            </div>
+            <p className={styles.cardDescription}>{description}</p>
+          </div>
+        </div>
       </Link>
-    </li>
+    </div>
   );
 }
 
 export default function HomepageFeatures() {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <section className={styles.features}>
-      <h1>Explore a documentação</h1>
-      <ol className={styles.container}>
-        {FeatureList.map((props, idx) => (
-          <Feature key={idx} index={idx + 1} {...props} />
-        ))}
-      </ol>
+    <section>
+      <div className={styles.space}>
+        <div className="container">
+          <div className={styles.cardHeaderTitle}>
+            <h2>Explore a documentação</h2>
+          </div>
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
+        </div>
+        <div className="container">
+          <BlogCards />
+        </div>
+      </div>
     </section>
+    
   );
 }
