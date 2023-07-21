@@ -1,41 +1,70 @@
 .features {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem 0;
-  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr min(800px, 100%) 1fr;
+  row-gap: 2ch;
+  margin: 60px 0 100px;
+  padding: 0 2ch;
 }
 
-.space {
+.features > h1 {
+  font-size: 1.6rem;
+  padding: 0.5rem 0.8rem;
   text-align: center;
-  margin-bottom: 6%;
+  background-image: var(--gradient);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: var(--ifm-color-card-border-hover);
 }
 
-.space h2 {
-  font-size: 25px;
-  margin-top: 30px;
-  margin-bottom: 5%;
-  padding: 1%;
-  background-color: var(--ifm-color-primary-lightest);
-  color: var(--ifm-color-card-border-hover);
+.features > * {
+  grid-column: 2;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-auto-rows: minmax(160px, 1fr);
+  width: 100%;
+  gap: 2ch;
+  padding: 0;
+  list-style-type: none;
 }
 
 .cards {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
+  justify-content: flex-start;
+  row-gap: 1ch;
   text-align: center;
-  background-color: var(--ifm-color-card-background);
-  height: 130px;
+  min-height: 130px;
+  height: 100%;
   padding: 3%;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  background-color: var(--ifm-color-card-background);
   border-radius: 10px;
   border: 1px solid var(--ifm-color-card-border);
-  grid-template-rows: 20px 50px 1fr 50px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
   transition: all 0.2s;
- }
+}
+
+.cards:is(:hover, :focus-within)::before {
+  opacity: 1;
+}
+
+.cards::before {
+  content: attr(data-count);
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  transform: translateX(5px);
+  font: bolder 2rem "Open Sans";
+  background-image: var(--gradient);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
 
 .cards:hover {
   text-decoration: none;
@@ -47,28 +76,10 @@
 
 .cardlink {
   position: relative;
-  text-decoration: none;
-  font-family: 'Poppins';
+  margin: 0;
   color: var(--ifm-color-primary-lighter);
-}
-
-.cardlink::after {
-  position: absolute;
-  top: 25px;
-  left: 0;
-  content: "";
-  width: 0%;
-  height: 3px;
-  background-color: var(--ifm-color-primary-lightest);
-  transition: all 0.5s;
-}
-
-.cardlink:hover::after {
-  width: 100%;
-}
-
-.container {
-  margin: 0 auto;
+  font: bold 1.25rem "Poppins";
+  text-decoration: none;
 }
 
 .featureSvg {
@@ -79,15 +90,16 @@
 
 .title {
   text-align: center;
-  font-family: 'Poppins';
+  font-family: "Poppins";
   font-size: larger;
   margin: 0 auto;
   color: var(--ifm-color-primary);
 }
 
 .description {
-  font-family: 'Open Sans';
-  margin-left: 20px;
+  font: regular 1rem "Open Sans";
+  line-height: 150%;
+  margin: 0;
   width: 90%;
   color: var(--ifm-color-description);
 }

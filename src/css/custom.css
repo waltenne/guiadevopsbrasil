@@ -40,6 +40,13 @@
   --ifm-color-footer-button: #0021de;
   --ifm-navbar-background-color: #ffffff;
   --ifm-link-color: #0184de;
+  --gradient: linear-gradient(
+      120deg,
+      var(--ifm-color-primary-lightest) 10%,
+      hsla(238, 100%, 71%, 0.2),
+      var(--ifm-color-primary-dark)
+    ),
+    url("../../static/img/home/background.svg");
 }
 
 [data-theme="dark"] {
