@@ -89,7 +89,7 @@ code .
 
 Faça o checkout para uma nova branch para você trabalhar na edição que precisa,você pode seguir os [Padrões e nomeclaturas do git](https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/)
 ```
-git checkout -b nome_da_branck
+git checkout -b nome_da_branch
 ```
 
 ### Instale as dependencias
@@ -138,7 +138,7 @@ Acredito que dessa forma quem for acessar terá uma experiência melhor em vez d
 
 ![youtube](static/img/readme/youtube_md.png)
 
-**1.** O que está em verde é o Título dessa página
+**1.** O que está em verde é o Título dessa página. 
 **2.** O que está em azul são os valores que precisam ser alterados para cada vídeos diferente, seja o título do video com a numeração da quantidade por exemplo video 1. video 25. etc etc e no final o id do video no youtube.
 
 Para tentar facilitar o entendimento mais baixo nível, agora vou descrever passo a passo.
