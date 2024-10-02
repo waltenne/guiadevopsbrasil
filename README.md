@@ -208,7 +208,7 @@ Mova o arquivo md gerado para o diretório que deverá ficar, por exemplo esse c
 ```bash
 mv curso_git_curso_em_video.md docs/niveis/avancado/git/
 ```
-Para finalizar, falta mapear o markdown no menu que irá aparecer, como o assunto de git, já tem um subpasta mapeado, abra o arqwuivo git.md e adicione o mapeamento para esse arquivo md, como por exemplo no item 1 basicamente
+Para finalizar, falta mapear o markdown no menu que irá aparecer, como o assunto de git, já tem um subpasta mapeado, abra o arquivo git.md e adicione o mapeamento para esse arquivo md, como por exemplo no item 1 basicamente
 
 ```
 NUMERO_ORDENADO_DO_ITEM. [Assunto](./arquivo.md)
