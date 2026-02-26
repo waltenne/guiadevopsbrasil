@@ -264,6 +264,11 @@ const sidebars = {
                 "niveis/avancado/monitoramento/zabbix_magno_monte_cerqueira",
               ]
             },
+            {
+              type: 'link',
+              label: 'Mini-curso CI/CD',
+              href: 'https://waltenne.github.io/mini-curso-cicd/',
+            },
           ]
         },
       ],
